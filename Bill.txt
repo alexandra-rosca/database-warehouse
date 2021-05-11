@@ -1,0 +1,7 @@
+----------------------------
+Client :Ana
+Produs :Oua
+Cantitate :3
+Pret: 21
+VA MULTUMIM PENTRU COMANDA!
+----------------------------
